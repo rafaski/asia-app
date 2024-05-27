@@ -4,3 +4,10 @@ def get_sum(a: int, b: int) -> int:
     """
 
     return a + b
+
+
+def get_diff(a: int, b: int) -> int:
+    """
+    Get a diff
+    """
+    return a - b
